@@ -1,0 +1,84 @@
+1665261728388	geckodriver	INFO	Listening on 127.0.0.1:51651
+1665261728867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51652" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofileIKw4TQ"
+1665261738217	Marionette	INFO	Marionette enabled
+1665261738257	Marionette	INFO	Listening on port 51674
+Read port: 51674
+WebDriver BiDi listening on ws://127.0.0.1:51652
+1665261739249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofileIKw4TQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51652/devtools/browser/4834e2a5-3998-4005-99cd-5032a065273b
+1665261817695	Marionette	INFO	Stopped listening on port 51674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665261927941	geckodriver	INFO	Listening on 127.0.0.1:51770
+1665261928452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51771" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofilekY9Tg3"
+1665261929215	Marionette	INFO	Marionette enabled
+1665261929620	Marionette	INFO	Listening on port 51778
+WebDriver BiDi listening on ws://127.0.0.1:51771
+Read port: 51778
+1665261929853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofilekY9Tg3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51771/devtools/browser/bd5d0c06-1aa5-4114-9920-d32c25ceaebb
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyA5H9seG35HKyjs-ojLUhdS5FEeIZobig8, line 180: uncaught exception: InvalidValueError: Map: Expected mapDiv of type HTMLElement but was passed null.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1665262250568	geckodriver	INFO	Listening on 127.0.0.1:52904
+1665262251058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52905" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofilewvlnVW"
+1665262252475	Marionette	INFO	Marionette enabled
+1665262252496	Marionette	INFO	Listening on port 52920
+Read port: 52920
+WebDriver BiDi listening on ws://127.0.0.1:52905
+1665262253084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofilewvlnVW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52905/devtools/browser/bd98bf57-6a02-4236-80a9-c7dc60f5d671
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyA5H9seG35HKyjs-ojLUhdS5FEeIZobig8, line 180: uncaught exception: InvalidValueError: Map: Expected mapDiv of type HTMLElement but was passed null.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1665262307586	geckodriver	INFO	Listening on 127.0.0.1:53339
+1665262308102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53340" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofilegggvlh"
+1665262308752	Marionette	INFO	Marionette enabled
+1665262308806	Marionette	INFO	Listening on port 53351
+Read port: 53351
+WebDriver BiDi listening on ws://127.0.0.1:53340
+1665262309545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofilegggvlh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53340/devtools/browser/1dc4a704-9d85-4283-bfcc-e98df1f108ec
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyA5H9seG35HKyjs-ojLUhdS5FEeIZobig8, line 180: uncaught exception: InvalidValueError: Map: Expected mapDiv of type HTMLElement but was passed null.
+1665262592462	geckodriver	INFO	Listening on 127.0.0.1:54695
+1665262592976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54696" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofileeH9zl1"
+1665262593843	Marionette	INFO	Marionette enabled
+1665262594229	Marionette	INFO	Listening on port 54711
+WebDriver BiDi listening on ws://127.0.0.1:54696
+Read port: 54711
+1665262594497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofileeH9zl1/search.json.mozlz4", (void 0)))
+1665262596066	Marionette	INFO	Stopped listening on port 53351
+DevTools listening on ws://127.0.0.1:54696/devtools/browser/8210cdcc-a06a-4396-840d-2d3ba202e128
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyA5H9seG35HKyjs-ojLUhdS5FEeIZobig8, line 180: uncaught exception: InvalidValueError: Map: Expected mapDiv of type HTMLElement but was passed null.
+1665262615828	Marionette	INFO	Stopped listening on port 54711
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1665262731022	geckodriver	INFO	Listening on 127.0.0.1:55405
+1665262731540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55406" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofileVIMCKX"
+1665262732221	Marionette	INFO	Marionette enabled
+1665262732263	Marionette	INFO	Listening on port 55417
+Read port: 55417
+WebDriver BiDi listening on ws://127.0.0.1:55406
+1665262732833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofileVIMCKX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55406/devtools/browser/23411626-6c01-4f74-ac8d-e93dcea931cd
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyA5H9seG35HKyjs-ojLUhdS5FEeIZobig8, line 180: uncaught exception: InvalidValueError: Map: Expected mapDiv of type HTMLElement but was passed null.
+1665262965014	geckodriver	INFO	Listening on 127.0.0.1:56536
+1665262965516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56537" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofiledTS94e"
+1665262966917	Marionette	INFO	Marionette enabled
+1665262966990	Marionette	INFO	Listening on port 56552
+Read port: 56552
+WebDriver BiDi listening on ws://127.0.0.1:56537
+1665262967387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r5/7kc657f571b879ct8zs23j5h0000gn/T/rust_mozprofiledTS94e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56537/devtools/browser/708772ab-928c-49d3-9a12-da9225512818
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyA5H9seG35HKyjs-ojLUhdS5FEeIZobig8, line 180: uncaught exception: InvalidValueError: Map: Expected mapDiv of type HTMLElement but was passed null.
+1665262989598	Marionette	INFO	Stopped listening on port 56552
