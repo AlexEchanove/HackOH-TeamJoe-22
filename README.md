@@ -1,4 +1,2 @@
 # HackOH-TeamJoe-22
-# Test commit
-# Hello
-# Test 2
+Idea number 1
