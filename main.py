@@ -12,7 +12,9 @@ print(urlpage)
 print ("Anything?")
 
 #open Firefox
-driver = webdriver.Firefox()
+fireFoxOptions = webdriver.FirefoxOptions()
+fireFoxOptions.set_headless()
+driver = webdriver.Firefox(firefox_options=fireFoxOptions)
 
 #open web page
 driver.get(urlpage)
