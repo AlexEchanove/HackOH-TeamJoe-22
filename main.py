@@ -4,8 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import pandas as pd
-from gtts import gTTS
-from playsound import playsound
+import pyttsx3
+
 
 urlpage = 'https://recsports.osu.edu/fms/facilities/rpac'
 print(urlpage)
@@ -32,14 +32,16 @@ while i < len(results_list):
     i += 2
 
 #print(dict)
-language = 'en'
+engine = pyttsx3.init()
+engine.setProperty('rate', 50)
+
 
 for entry in list(dict.keys()):
-    myobj = gTTS(text=entry, lang=language, slow=False)
-    myobj.save("sounds.mp3")
-    playsound("sounds.mp3")
+    rate = engine.getProperty('rate')
+    engine.setProperty('rate', rate + 75)
+    engine.say(entry)
+    engine.runAndWait()
     
-    myobj = gTTS(text=dict[entry], lang=language, slow=False)
-    myobj.save("sounds.mp3")
-    playsound("sounds.mp3")
+    engine.say(dict[entry])
+    engine.runAndWait()
 
